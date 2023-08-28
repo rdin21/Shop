@@ -1,0 +1,20 @@
+node_module
+build/
+dist/
+assets/
+public/
+
+#Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+
+
+
+

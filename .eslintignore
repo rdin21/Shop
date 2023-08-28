@@ -1,0 +1,20 @@
+node_modules
+/.vscode
+/.git
+dist/
+build/
+
+
+assets/
+public/
+/**/*.d.ts
+
+#Logs
+logs
+*.log
+npm-debug.log
+
+# Runtime data
+pids
+*.pid
+*.seed

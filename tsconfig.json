@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "jsx": "react",
+    "allowJs": true,
+    "checkJs": true,
+    "outDir": "",
+    "noEmit": true,
+    "esModuleInterop": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "alwaysStrict": true,
+    "strict": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "resolveJsonModule": true,
+    "pretty": true,
+    "allowUnreachableCode": true,
+    "diagnostics": true,
+    "noImplicitAny": true
+  },
+  "exclude": ["node_modules", "dist", "build", ".vscode", "src/tests"]
+}
